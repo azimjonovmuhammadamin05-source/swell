@@ -39,3 +39,11 @@ justify-content: space-around;}
 .card button, .more button, .tab button{border: none;
     background-color: transparent;
 color: blueviolet;}
+.more{margin-top: 80px;
+display: flex;}
+.more ul{list-style: none;}
+.more img{
+width: 1000px;}
+.var{position: absolute;
+    width: 400px;
+    z-index: 2;}
