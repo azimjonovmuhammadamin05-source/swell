@@ -47,3 +47,12 @@ width: 1000px;}
 .var{position: absolute;
     width: 400px;
     z-index: 2;}
+.tab{text-align: center;
+    padding: 30px 80px;
+  background-image: linear-gradient(to bottom, rgba(128, 0, 128, 0.763), transparent);}
+  table td, tr{display: flex;
+    width: 1000px;
+justify-content: space-around;
+}
+table td{padding: 20px 0;}
+table img{width: 100px;}
