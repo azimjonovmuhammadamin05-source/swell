@@ -17,4 +17,25 @@ header button{
     padding: 5px;
     border-radius: 5px;
 }
-
+main{max-width: 1200px;
+margin: auto;}
+.sell{
+    text-align: center;
+}
+.sell span{color: blueviolet;}
+.sell h1{font-size: 50px;}
+.sell button{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding:9px;
+}
+.sell input{padding:8px;}
+.card{display: flex;
+justify-content: space-around;}
+.right{text-align: center;
+}
+.right p{width: 420px;}
+.card button, .more button, .tab button{border: none;
+    background-color: transparent;
+color: blueviolet;}
